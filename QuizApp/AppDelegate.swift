@@ -5,7 +5,6 @@
 //  Created by SpaceGhost on 10/30/18.
 //  Copyright © 2018 SpaceGhost. All rights reserved.
 //
-
 import UIKit
 
 @UIApplicationMain
